@@ -1,6 +1,8 @@
 # ahuDoctor
 **ahuDoctor  detects hard and soft faults in multiple zone VAV AHU systems**
 
+https://github.com/Carleton-DBOM-Research-Group/ahuDoctor
+
  **system-level hard faults covered:**
  
        1) mixing box dampers behave outside AMCA curves
